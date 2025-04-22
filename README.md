@@ -7,8 +7,8 @@
 
 - 🧠 Interested in **Building my own compilers**, **Optimization**, **Machine Learning**, and **LLM's**
 - 🧮 I'm fully procifient in `Assembly`, `Holy C`, `MATLAB`, `Python` and `C++`
-- 🌊 Working fulltime as CoFounder and Head of Machine Learning at **MörkNet** – applying the next generations AI in modern systems
-- 👨🏻‍💻 Ex-Temple OS engineer | Ex-OpenAI researcher
+- 🌊 Working fulltime as **CoFounder and Head of Machine Learning** at **MörkNet** – applying the next generations AI in modern systems
+- 👨🏻‍💻 Ex-**Temple OS** engineer | Ex-**OpenAI** researcher
 - ⚙️ Machine-code enthusiast
 
 ---
