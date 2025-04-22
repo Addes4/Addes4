@@ -12,7 +12,6 @@
 - ⚙️ Machine-code enthusiast
 
 ---
----
 
 ### 📊 My GitHub Stats
 
