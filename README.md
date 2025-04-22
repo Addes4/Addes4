@@ -33,5 +33,7 @@
 
 <p align="center">
   <i>“Mannen vad vet dem”</i>
-  That's my favourite saying!
+</p>
+<p align="center">
+  That's my favorite saying!!
 </p>
