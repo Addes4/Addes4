@@ -24,8 +24,8 @@
 
 ### Main projects
 
-- 🚰 [**Vattenkran – Final project i SF1546**](https://github.com/addes4/numerical-methods-final-project)
-- 📈 [Final project in python](https://github.com/addes4/Python-project)
+- 📈 [**Vattenkran – Final project in SF1546**](https://github.com/addes4/numerical-methods-final-project)
+- 👾 [**Memory - Final project in DD1310**](https://github.com/addes4/Python-project)
 
 ---
 
