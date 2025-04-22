@@ -33,4 +33,5 @@
 
 <p align="center">
   <i>“Mannen vad vet dem”</i>
+  That's my favourite saying!
 </p>
