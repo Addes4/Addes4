@@ -14,7 +14,7 @@
 ---
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=addes4&show_icons=true&theme=default" alt="GitHub stats" width="400"/>
@@ -23,17 +23,18 @@
 
 ---
 
-### Main projects
+### 🏗️ Main projects
 
 - 📈 [**Vattenkran – Final project in SF1546**](https://github.com/addes4/numerical-methods-final-project)
 - 👾 [**Memory - Final project in DD1310**](https://github.com/addes4/Python-project)
 
 ---
 
-
+### 💭 My favorite saying
 <p align="center">
   <i>“Mannen vad vet dem”</i>
 </p>
+
 <p align="center">
-  That's my favorite saying!!
+  <i>“Blahonga”</i>
 </p>
