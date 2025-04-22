@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <i>“Blahonga”</i>
+  <i>“De säger tid e pengar, jag har full koll på klockan”</i>
 </p>
