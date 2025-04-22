@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Addes4</h1>
-<h3 align="center">First year engineering student at KTH </h3>
+<h3 align="center">Software Engineer from KTH </h3>
 
 ---
 
