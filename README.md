@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Addes4</h1>
+<h1 align="center">Welcome 👋, I'm Addes4</h1>
 <h3 align="center">SWE/MLE from KTH </h3>
 
 ---
