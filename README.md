@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <i>“De säger tid e pengar, jag har full koll på klockan”</i>
+  <i>“Alla mina bröder är utvecklingsstörda, undernärda, hjärndöda, filterlösa, laglösa”</i>
 </p>
