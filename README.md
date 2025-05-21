@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Adrian</h1>
-<h3 align="center">Engineering student at KTH </h3>
+<h3 align="center">1st year BSc Engineering student at KTH </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🧠 Interested in **Finance**, **Mathematics**, **Computer Science**, and **Machine Learning**
 - 🧮 I'm familiar with `Python`,  `C++`, `Java` and `MATLAB`
-- 🌊 Studying **General engineering** full-time at **KTH Royal Institute of Technology** while working on projects on my own.
+- 🌊 Studying **General engineering** full-time at **KTH Royal Institute of Technology** while working on projects of my own.
 
 ---
 
