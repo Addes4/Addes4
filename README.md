@@ -1,15 +1,13 @@
-<h1 align="center">Welcome 👋, I'm Addes4</h1>
-<h3 align="center">SWE/MLE from KTH </h3>
+<h1 align="center">Welcome 👋, I'm Adrian</h1>
+<h3 align="center">Engineering student at KTH </h3>
 
 ---
 
 ### 🔍 About Me
 
-- 🧠 Interested in **Building my own compilers**, **Optimization**, **Machine Learning**, and **LLM's**
-- 🧮 I'm fully proficient in `Assembly`, `Holy C`, `MATLAB`, `Python` and `C++`
-- 🌊 Working fulltime as **CoFounder** and **CEO** at **MörkNet** – applying the next generations AI in modern systems
-- 👨🏻‍💻 Ex-**Temple OS** engineer | Ex-**OpenAI** researcher
-- ⚙️ Machine-code enthusiast
+- 🧠 Interested in **Finance**, **Mathematics**, **Computer Science**, and **Machine Learning's**
+- 🧮 I'm familiar with `Python`,  `C++`, `Java` and `MATLAB`
+- 🌊 Studying **General engineering** full-time at **KTH Royal Institute of Technology** while working on projects on my own.
 
 ---
 
@@ -26,14 +24,3 @@
 
 - 📈 [**Vattenkran – Final project in SF1546**](https://github.com/addes4/numerical-methods-final-project)
 - 👾 [**Memory - Final project in DD1310**](https://github.com/addes4/Python-project)
-
----
-
-### 💭 My favorite saying
-<p align="center">
-  <i>“Mannen vad vet dem”</i>
-</p>
-
-<p align="center">
-  <i>“Alla mina bröder är utvecklingsstörda, undernärda, hjärndöda, filterlösa, laglösa”</i>
-</p>
