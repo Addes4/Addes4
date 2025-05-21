@@ -7,7 +7,7 @@
 
 - 🧠 Interested in **Finance**, **Mathematics**, **Computer Science**, and **Machine Learning**.
 - 🧮 I'm familiar with `Python`,  `C++`, `Java` and `MATLAB`.
-- 🌊 Studying **General engineering** full-time at **KTH Royal Institute of Technology** while working on projects of my own.
+- 🌊 Studying **General engineering** (Civilingenjör i Öppen Ingång) at **KTH Royal Institute of Technology** while working on projects of my own.
 
 ---
 
