@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Adrian</h1>
+<h1 align="center">Adrian</h1>
 <h3 align="center">1st year BSc Engineering student at KTH </h3>
 
 ---
