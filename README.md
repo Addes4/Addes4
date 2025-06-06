@@ -5,9 +5,8 @@
 
 ### 🔍 About Me
 
-- 🧠 Interested in **Machine Learning**, **Mathematics**, **Computer Science**, and **Finance**.
-- 🧮 I'm familiar with `Python` and `MATLAB` (so far).
-- 🌊 Studying **General engineering** (Civilingenjör i Öppen Ingång) at **KTH Royal Institute of Technology** while working on projects of my own.
+- 🧠 Interested in **Machine Learning**, **Finance**, **Mathematics** and **Computer Science**.
+- 📚 Studying **Engineering** at **KTH Royal Institute of Technology** while working on projects of my own.
 
 ---
 
@@ -22,5 +21,6 @@
 
 ### 🏗️ Main projects
 
+- 💻 [**GPA Calculator - Side project**](https://github.com/addes4/GPA-calculator)
 - 📈 [**Vattenkran – Final project in SF1546**](https://github.com/addes4/numerical-methods-final-project)
 - 👾 [**Memory - Final project in DD1310**](https://github.com/addes4/Python-project)
