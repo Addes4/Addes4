@@ -3,13 +3,6 @@
 
 ---
 
-### 🔍 About Me
-
-- 🧠 Interested in **Machine Learning**, **Finance**, **Mathematics** and **Computer Science**.
-- 📚 Studying **Engineering** at **KTH Royal Institute of Technology** while working on projects of my own.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
