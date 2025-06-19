@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋</h1>
-<h3 align="center">1st year BSc Engineering student at KTH </h3>
+<h3 align="center">2nd year BSc Engineering student at KTH </h3>
 
 ---
 
