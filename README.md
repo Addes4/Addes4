@@ -1,6 +1,8 @@
 <h1 align="center">Hello👋</h1>
 <h3 align="center">2nd year BSc Engineering student at KTH </h3>
-Place to gather the code from my courses and laborations, but also the things I've built myself.
+
+The place where I gather the code from my courses and laborations, but also the things I've built myself.
+
 ---
 
 ### 📊 GitHub Stats
