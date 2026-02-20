@@ -1,19 +1,13 @@
-<h1 align="center">👋</h1>
-<h3 align="center"> Engineering Mathematics student at KTH </h3>
+# addes4
 
----
+Engineering Mathematics student at KTH.
 
-### 📊 GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addes4&show_icons=true&theme=default" alt="GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addes4&layout=compact&theme=default" alt="Top languages" width="300"/>
-</p>
+- [GPA Calculator](https://github.com/addes4/GPA-calculator) — Personal side project
+- [Vattenkran](https://github.com/addes4/numerical-methods-final-project) — Numerical methods final project (SF1546)
+- [Memory](https://github.com/addes4/Python-project) — Python final project (DD1310)
 
----
+## Stats
 
-### 🏗️ Main projects
-
-- 💻 [**GPA Calculator - Side project**](https://github.com/addes4/GPA-calculator)
-- 📈 [**Vattenkran – Final project in SF1546**](https://github.com/addes4/numerical-methods-final-project)
-- 👾 [**Memory - Final project in DD1310**](https://github.com/addes4/Python-project)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=addes4&show_icons=true&theme=default&hide_border=true)
