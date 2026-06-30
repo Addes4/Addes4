@@ -3,5 +3,9 @@ Last year Bachelor of Science student in Engineering Mathematics at KTH.
 
 Incoming Master of Science student in Applied and Computational Mathematics at KTH.
 
+---
+
 ### Interests
-Machine learning and AI methods applied to **computational biology** and **finance**. Broadly interested in mathematical problem solving.
+Broadly interested in mathematical problem solving. 
+
+More specifically **machine learning research**, **computational biology** and **ML/AI in finance**.
