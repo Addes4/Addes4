@@ -9,3 +9,8 @@ Incoming Master of Science student in Applied and Computational Mathematics at K
 Broadly interested in mathematical problem solving. 
 
 More specifically **machine learning research**, **computational biology** and **ML/AI in finance**.
+
+---
+
+### Contacts
+See my [LinkedIn](/in/adrian-sohrabi) and my [webpage](addes4.github.io).
