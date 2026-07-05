@@ -13,4 +13,4 @@ More specifically **machine learning research**, **computational biology** and *
 ---
 
 ### Contacts
-See my [LinkedIn](/in/adrian-sohrabi) and my [webpage](addes4.github.io).
+See my [LinkedIn](/in/adrian-sohrabi) and my [webpage](https://addes4.github.io).
