@@ -8,8 +8,6 @@ Incoming Master of Science student in Applied and Computational Mathematics at K
 ### Interests
 Broadly interested in mathematical problem solving. 
 
-More specifically **machine learning**, **computational biology** and **finance**.
-
 ---
 
 ### Contacts
